@@ -9,7 +9,7 @@ public class Player implements Cards {
     String rank[]={"2","3","4","5","6","7","8","9","10","Jack","Queen","King","Ace"};
     public LinkedListUsingQueue queue=new LinkedListUsingQueue();
 
-    //This  method will help in creating the object array in Main Class.
+    //This method will help in creating the object array in Main Class.
     public Player()
     {
         cards=new String[9];
