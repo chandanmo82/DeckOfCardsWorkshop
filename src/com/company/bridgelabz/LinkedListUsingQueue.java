@@ -2,7 +2,7 @@ package com.company.bridgelabz;
 
 public class LinkedListUsingQueue<T> {
 
-    //A node class  has been created for performing node operations.
+    //A node class  has been created for  performing node operations.
     public class Node<T>
     {
         Node next;

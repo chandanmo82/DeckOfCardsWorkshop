@@ -41,7 +41,7 @@ public class DeckOfCards {
 
             if(combinations[index1][index2]==0) {
 
-                //Storing the value in  Object array created from player class.
+                //Storing the value in  Object array created  from player class.
                 object[check%player_num].getCards(rank[index2]+" of "+shape[index1]);
                 combinations[index1][index2]=1;
             }
