@@ -53,7 +53,7 @@ public class DeckOfCards {
 
         //Printing the sorted value stored in linked list after applying the queue method.
         for(int index=0;index<player_num;index++) {
-            System.out.print("Player "+(index+1)+"  :  ");
+            System.out.print(" Player "+(index+1)+"  :  ");
             object[index].queue.print();
             System.out.println();
         }

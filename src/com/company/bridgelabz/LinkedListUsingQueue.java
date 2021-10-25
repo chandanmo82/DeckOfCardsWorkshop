@@ -7,6 +7,7 @@ public class LinkedListUsingQueue<T> {
     {
         Node next;
         T data;
+
     }
 
     //Node head has been declared.
