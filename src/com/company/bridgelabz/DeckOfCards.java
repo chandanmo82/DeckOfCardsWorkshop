@@ -32,7 +32,7 @@ public class DeckOfCards {
             }
         }
 
-        //Check on a random basis that each and every player gets only 9 cards.
+        //Check on a random basis that each and every player gets only 9 number of cards.
         int distributed_cards=player_num*9;
         for(int check=0;check<distributed_cards;check++) {
             int index1=(int)(Math.random()*3);

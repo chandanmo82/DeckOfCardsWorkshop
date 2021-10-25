@@ -17,7 +17,7 @@ public class Player implements Cards {
             cards[index]=new String();
     }
 
-    //Enqueueing the sorted data in cards.
+    //Enqueueing the sorted data in cards
     public void getCards(String card)
     {
 

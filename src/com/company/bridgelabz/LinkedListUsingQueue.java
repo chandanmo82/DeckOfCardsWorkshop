@@ -10,7 +10,7 @@ public class LinkedListUsingQueue<T> {
 
     }
 
-    //Node head has been declared.
+    //Node's head has been declared.
     public Node head=null;
 
     //Enqueue operation in linked list has been declared.
