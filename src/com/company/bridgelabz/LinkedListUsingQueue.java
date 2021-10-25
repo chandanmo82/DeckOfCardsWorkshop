@@ -15,7 +15,7 @@ public class LinkedListUsingQueue<T> {
     //Enqueue operation in linked list has been declared.
     public void enqueue(T data)
     {
-        //Initializing new node object which is to be inserted.
+        //Initializing the new node object which is to be inserted.
         Node newNode=new Node();
         newNode.data=data;
         newNode.next=null;
