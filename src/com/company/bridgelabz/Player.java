@@ -27,7 +27,7 @@ public class Player implements Cards {
             sort();
     }
 
-    //Enqueueing the sorted value in the linked list.
+    //Enqueueing the  sorted value in the linked list.
     public void sort()
     {
         for(int index1=0;index1<rank.length;index1++)
