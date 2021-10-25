@@ -3,7 +3,7 @@ package com.company.bridgelabz;
 //Implementing the Cards interface for the methods.
 public class Player implements Cards {
 
-    //Declarations.
+    // Declarations.
     int index=0;
     String cards[];
     String rank[]={"2","3","4","5","6","7","8","9","10","Jack","Queen","King","Ace"};
